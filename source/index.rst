@@ -1,22 +1,14 @@
-.. eisla-doc documentation master file, created by
-   sphinx-quickstart on Wed Aug 10 12:10:34 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Welcome to Eisla product range documentation!
+=============================================
 
-Welcome to eisla-doc's documentation!
-=====================================
+Eisla is a versatile and powerful motor solution
+developed and distributed by `ExMachina <https://www.exmachina.fr>`_.
 
-Contents:
+Available documentations:
 
-.. toctree::
+    * :doc:`Armaz documentation <projects/armaz>`
+    * :doc:`Ertza documentation <projects/ertza>`
+
+.. .. toctree::
    :maxdepth: 2
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   :ref:`projects/armaz`
