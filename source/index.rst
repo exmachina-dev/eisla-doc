@@ -7,6 +7,7 @@ developed and distributed by `ExMachina <https://www.exmachina.fr>`_.
 Available documentations:
 
     * `Armaz documentation </projects/armaz>`_
+    * `Varmo documentation </projects/varmo>`_
     * `Ertza documentation </projects/ertza>`_
 
 .. .. toctree::
