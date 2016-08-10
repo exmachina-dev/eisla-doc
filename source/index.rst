@@ -6,8 +6,8 @@ developed and distributed by `ExMachina <https://www.exmachina.fr>`_.
 
 Available documentations:
 
-    * :doc:`Armaz documentation <projects/armaz>`
-    * :doc:`Ertza documentation <projects/ertza>`
+    * `Armaz documentation </projects/armaz>`
+    * `Ertza documentation </projects/ertza>`
 
 .. .. toctree::
    :maxdepth: 2
