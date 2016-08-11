@@ -18,6 +18,9 @@ The following products are yet to be documented:
     * Dervy: Emergency circuit coupler
     * Teedy: Generic purpose button
 
-.. .. toctree::
+.. toctree::
    :maxdepth: 2
-   :ref:`projects/armaz`
+
+   projects/armaz
+   projects/varmo
+   projects/ertza
