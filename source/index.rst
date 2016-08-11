@@ -11,6 +11,13 @@ Available documentations:
     * `Varmo documentation </projects/varmo>`_: Documentation of Varmo *Control Desk*
     * `Ertza documentation </projects/ertza>`_: Documentation of Ertza
 
+The following products are yet to be documented:
+
+    * Stopt: Emergency stop button
+    * Verit: Dead man's switch
+    * Dervy: Emergency circuit coupler
+    * Teedy: Generic purpose button
+
 .. .. toctree::
    :maxdepth: 2
    :ref:`projects/armaz`
